@@ -33,7 +33,7 @@ def fastGroupProducts(products):
 
 
 # Test
-class Tes(unittest.TestCase):
+class Test(unittest.TestCase):
     def test(self):
         # generate products in random order
         test_products = [
